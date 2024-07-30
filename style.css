@@ -1,0 +1,28 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 50px;
+}
+.container {
+    max-width: 400px;
+    margin: auto;
+    text-align: center;
+}
+input[type="text"] {
+    width: 100%;
+    padding: 10px;
+    margin: 10px 0;
+}
+button {
+    padding: 10px 20px;
+    background-color: #151fe4;
+    color: white;
+    border: none;
+    cursor: pointer;
+}
+button:hover {
+    background-color: #ede6e5;
+}
+.result {
+    margin-top: 20px;
+    font-weight: bold;
+}
